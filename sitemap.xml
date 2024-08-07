@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://comdottywebservices.somee.com/</loc>
+  <lastmod>2024-07-29T01:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://comdottywebservices.somee.com/pages/privacy.html</loc>
+  <lastmod>2024-07-29T01:00:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>http://comdottywebservices.somee.com/pages/tandc.html</loc>
+  <lastmod>2024-07-29T01:00:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>http://comdottywebservices.somee.com/pages/error.html</loc>
+  <lastmod>2024-07-29T01:00:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>http://comdottywebservices.somee.com/pages/sent.html</loc>
+  <lastmod>2024-07-29T01:00:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>http://comdottywebservices.somee.com/pages/trap.html</loc>
+  <lastmod>2024-07-29T01:00:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.10</priority>
+</url>
+
+</urlset>
